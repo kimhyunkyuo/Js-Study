@@ -22,4 +22,4 @@ const[a,b,c] = arr;
 
 console.log(a,b,c);
 
-fwqwqfqsa sa s sc
+//선택적 체이닝
